@@ -1,0 +1,88 @@
+* {
+    padding: none;
+}
+
+.conocenos {
+    font-size: 13px;
+}
+
+.inicio {
+    padding: -100%;
+    font-size: 10px;
+}
+
+.nav {
+    color: #529ac4;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+.nav:hover {
+    color: rgb(9, 65, 185);
+}
+
+.logo {
+    color: #529ac4;
+    font-size: 35px;
+    font-weight: 350;
+    margin-left: -90%;
+}
+
+.logo:hover {
+    color: rgb(9, 65, 185);
+}
+
+.carousel {
+    margin-left: -0.9%;
+    margin-right: -0.9%;
+}
+
+.usted {
+    font-size: 90%;
+}
+
+.ciudad {
+    margin-left: 10%;
+
+}
+
+.drop {
+    font-size: 13px;
+    padding-right: 10%;
+}
+
+.car {
+    margin: 3% 2% 0 8%;
+}
+
+.card {
+    width: fit-content;
+    margin: 0;
+    padding: 0;
+}
+
+.card-body {
+    padding: 0;
+}
+
+img {
+    display: block;
+    height: auto;
+}
+.a{
+    height: 400px;
+}
+.card-estreno{
+    background-color: rgb(9, 65, 185);
+}
+.card-estren{
+    background-color: yellow;
+}
+.first{
+    margin-left: 8%;
+}
+footer{
+    margin-top: 2%;
+    color: #868686;
+}
